@@ -1,7 +1,7 @@
 # ระบบจัดทำใบสมัครสมาชิก อวท. (แบบ อวท.๑๐)
 ### Web Application สำหรับกรอกข้อมูลและสร้างไฟล์ PDF มาตรฐาน A4 (หน้าเดียวจบ 100%)
 
-หมายเหตุ: ระบบนี้จัดทำขึ้นโดย AI ทั้งหมด หากมรข้อมผิดพลาดหรือแก้ไข สามารถแจ้งได้ครับ 
+หมายเหตุ: ระบบนี้จัดทำขึ้นโดย AI ทั้งหมด หากมีข้อมผิดพลาดหรือแก้ไข สามารถแจ้งได้ครับ 
 
 [![GitHub Pages](https://img.shields.io/badge/Demo-Live%20Website-success?style=for-the-badge&logo=github)](https://kruearthmecha.github.io/avt10-form/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
